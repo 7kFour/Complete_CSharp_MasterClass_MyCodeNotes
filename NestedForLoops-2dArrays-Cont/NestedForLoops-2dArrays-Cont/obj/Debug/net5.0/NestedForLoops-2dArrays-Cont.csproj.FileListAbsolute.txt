@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.exe
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.deps.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\bin\Debug\net5.0\NestedForLoops-2dArrays-Cont.pdb
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\refint\NestedForLoops-2dArrays-Cont.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.pdb
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\NestedForLoops-2dArrays-Cont.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays-Cont\NestedForLoops-2dArrays-Cont\obj\Debug\net5.0\ref\NestedForLoops-2dArrays-Cont.dll

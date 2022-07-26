@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.exe
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.deps.json
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.dll
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net5.0\FunctionsAndMethods.pdb
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.dll
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\refint\FunctionsAndMethods.dll
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.pdb
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\FunctionsAndMethods.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net5.0\ref\FunctionsAndMethods.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sec7-Switch-ForEach-Challenge/1.0.0": {
+        "runtime": {
+          "Sec7-Switch-ForEach-Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sec7-Switch-ForEach-Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

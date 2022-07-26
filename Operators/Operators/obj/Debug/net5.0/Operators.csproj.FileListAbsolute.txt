@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.exe
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.deps.json
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.dll
+D:\dev\c#\csharp-masterclass\Operators\Operators\bin\Debug\net5.0\Operators.pdb
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.dll
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\refint\Operators.dll
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.pdb
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\Operators\Operators\obj\Debug\net5.0\ref\Operators.dll

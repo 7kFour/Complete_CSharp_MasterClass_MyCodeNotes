@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.exe
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.deps.json
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.dll
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\bin\Debug\net5.0\ArraysAsParameters.pdb
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.dll
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\refint\ArraysAsParameters.dll
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.pdb
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ArraysAsParameters.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\ArraysAsParameters\ArraysAsParameters\obj\Debug\net5.0\ref\ArraysAsParameters.dll

@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.exe
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.deps.json
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.dll
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\bin\Debug\net5.0\ArrayLists.pdb
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.dll
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\refint\ArrayLists.dll
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.pdb
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ArrayLists.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\ArrayLists\ArrayLists\obj\Debug\net5.0\ref\ArrayLists.dll

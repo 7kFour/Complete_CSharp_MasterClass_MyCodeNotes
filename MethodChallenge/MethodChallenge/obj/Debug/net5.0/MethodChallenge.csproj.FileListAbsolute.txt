@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.exe
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.deps.json
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.dll
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.pdb
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.dll
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\refint\MethodChallenge.dll
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.pdb
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\MethodChallenge\MethodChallenge\obj\Debug\net5.0\ref\MethodChallenge.dll

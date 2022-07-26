@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.exe
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.deps.json
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.dll
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\bin\Debug\net5.0\Params-MinValue.pdb
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.dll
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\refint\Params-MinValue.dll
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.pdb
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\Params-MinValue.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\Params-MinValue\Params-MinValue\obj\Debug\net5.0\ref\Params-MinValue.dll

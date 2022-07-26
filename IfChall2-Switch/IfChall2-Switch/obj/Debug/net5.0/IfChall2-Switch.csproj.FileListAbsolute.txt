@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.exe
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.deps.json
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.dll
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\bin\Debug\net5.0\IfChall2-Switch.pdb
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.dll
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\refint\IfChall2-Switch.dll
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.pdb
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\IfChall2-Switch.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\IfChall2-Switch\IfChall2-Switch\obj\Debug\net5.0\ref\IfChall2-Switch.dll

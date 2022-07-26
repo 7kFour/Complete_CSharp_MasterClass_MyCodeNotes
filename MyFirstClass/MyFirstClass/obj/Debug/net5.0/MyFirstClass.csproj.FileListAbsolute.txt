@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.exe
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.deps.json
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.dll
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\bin\Debug\net5.0\MyFirstClass.pdb
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.dll
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\refint\MyFirstClass.dll
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.pdb
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\MyFirstClass.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\MyFirstClass\MyFirstClass\obj\Debug\net5.0\ref\MyFirstClass.dll

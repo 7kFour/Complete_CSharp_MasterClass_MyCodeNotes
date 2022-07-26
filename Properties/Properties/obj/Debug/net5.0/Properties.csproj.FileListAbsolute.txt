@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.exe
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.deps.json
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.dll
+D:\dev\c#\csharp-masterclass\Properties\Properties\bin\Debug\net5.0\Properties.pdb
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.dll
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\refint\Properties.dll
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.pdb
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll

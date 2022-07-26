@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.exe
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.deps.json
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.dll
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\bin\Debug\net5.0\ConversionStringsVariables.pdb
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.dll
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\refint\ConversionStringsVariables.dll
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.pdb
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ConversionStringsVariables.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\ConversionStringsVariables\ConversionStringsVariables\obj\Debug\net5.0\ref\ConversionStringsVariables.dll

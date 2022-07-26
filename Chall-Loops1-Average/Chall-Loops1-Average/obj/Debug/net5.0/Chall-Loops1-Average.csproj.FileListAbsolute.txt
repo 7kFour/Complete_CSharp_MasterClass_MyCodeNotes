@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.exe
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.deps.json
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.dll
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\bin\Debug\net5.0\Chall-Loops1-Average.pdb
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.dll
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\refint\Chall-Loops1-Average.dll
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.pdb
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\Chall-Loops1-Average.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\Chall-Loops1-Average\Chall-Loops1-Average\obj\Debug\net5.0\ref\Chall-Loops1-Average.dll

@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.exe
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.deps.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\bin\Debug\net5.0\NestedForLoops-2dArrays.pdb
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\refint\NestedForLoops-2dArrays.dll
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.pdb
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\NestedForLoops-2dArrays.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\NestedForLoops-2dArrays\NestedForLoops-2dArrays\obj\Debug\net5.0\ref\NestedForLoops-2dArrays.dll

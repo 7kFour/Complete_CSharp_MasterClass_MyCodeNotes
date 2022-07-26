@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.exe
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.deps.json
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.dll
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\bin\Debug\net5.0\TernaryOperator.pdb
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.dll
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\refint\TernaryOperator.dll
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.pdb
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\TernaryOperator.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\TernaryOperator\TernaryOperator\obj\Debug\net5.0\ref\TernaryOperator.dll

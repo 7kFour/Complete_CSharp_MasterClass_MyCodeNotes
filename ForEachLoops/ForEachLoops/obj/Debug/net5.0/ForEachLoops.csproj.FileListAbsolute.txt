@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.exe
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.deps.json
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.dll
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\bin\Debug\net5.0\ForEachLoops.pdb
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.dll
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\refint\ForEachLoops.dll
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.pdb
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ForEachLoops.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\ForEachLoops\ForEachLoops\obj\Debug\net5.0\ref\ForEachLoops.dll

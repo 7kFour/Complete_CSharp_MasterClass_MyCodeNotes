@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.exe
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.deps.json
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.dll
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\bin\Debug\net5.0\JaggedArraysChall.pdb
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.dll
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\refint\JaggedArraysChall.dll
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.pdb
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\JaggedArraysChall.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\JaggedArraysChall\JaggedArraysChall\obj\Debug\net5.0\ref\JaggedArraysChall.dll

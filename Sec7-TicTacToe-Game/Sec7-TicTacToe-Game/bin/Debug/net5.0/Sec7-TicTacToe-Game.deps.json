@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sec7-TicTacToe-Game/1.0.0": {
+        "runtime": {
+          "Sec7-TicTacToe-Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sec7-TicTacToe-Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.exe
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.deps.json
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.dll
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\bin\Debug\net5.0\LoginSystem-Sec4-Chall.pdb
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.dll
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\refint\LoginSystem-Sec4-Chall.dll
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.pdb
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\LoginSystem-Sec4-Chall.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\LoginSystem-Sec4-Chall\LoginSystem-Sec4-Chall\obj\Debug\net5.0\ref\LoginSystem-Sec4-Chall.dll

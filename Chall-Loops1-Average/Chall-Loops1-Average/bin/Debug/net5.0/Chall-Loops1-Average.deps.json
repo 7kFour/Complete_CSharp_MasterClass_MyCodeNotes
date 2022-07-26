@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chall-Loops1-Average/1.0.0": {
+        "runtime": {
+          "Chall-Loops1-Average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chall-Loops1-Average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

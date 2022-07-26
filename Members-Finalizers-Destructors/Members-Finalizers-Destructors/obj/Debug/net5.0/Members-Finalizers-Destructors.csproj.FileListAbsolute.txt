@@ -1,0 +1,5 @@
+D:\dev\c#\csharp-masterclass\Members-Finalizers-Destructors\Members-Finalizers-Destructors\obj\Debug\net5.0\Members-Finalizers-Destructors.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\Members-Finalizers-Destructors\Members-Finalizers-Destructors\obj\Debug\net5.0\Members-Finalizers-Destructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\Members-Finalizers-Destructors\Members-Finalizers-Destructors\obj\Debug\net5.0\Members-Finalizers-Destructors.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\Members-Finalizers-Destructors\Members-Finalizers-Destructors\obj\Debug\net5.0\Members-Finalizers-Destructors.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\Members-Finalizers-Destructors\Members-Finalizers-Destructors\obj\Debug\net5.0\Members-Finalizers-Destructors.csproj.CoreCompileInputs.cache

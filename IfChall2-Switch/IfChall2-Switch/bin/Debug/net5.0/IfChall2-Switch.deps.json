@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IfChall2-Switch/1.0.0": {
+        "runtime": {
+          "IfChall2-Switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfChall2-Switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

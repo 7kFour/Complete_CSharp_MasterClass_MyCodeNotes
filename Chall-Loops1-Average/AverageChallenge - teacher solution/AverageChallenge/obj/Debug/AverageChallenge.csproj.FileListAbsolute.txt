@@ -1,0 +1,7 @@
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\bin\Debug\AverageChallenge.exe.config
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\bin\Debug\AverageChallenge.exe
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\bin\Debug\AverageChallenge.pdb
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\obj\Debug\AverageChallenge.csprojResolveAssemblyReference.cache
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\obj\Debug\AverageChallenge.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\obj\Debug\AverageChallenge.exe
+F:\C# Masterclass Course\Projects\AverageChallenge\AverageChallenge\obj\Debug\AverageChallenge.pdb

@@ -1,0 +1,16 @@
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.exe
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.deps.json
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.runtimeconfig.json
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.runtimeconfig.dev.json
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.dll
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\bin\Debug\net5.0\BreakAndContinuePractice.pdb
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.csproj.AssemblyReference.cache
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.AssemblyInfoInputs.cache
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.AssemblyInfo.cs
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.csproj.CoreCompileInputs.cache
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.dll
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\refint\BreakAndContinuePractice.dll
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.pdb
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\BreakAndContinuePractice.genruntimeconfig.cache
+D:\dev\c#\csharp-masterclass\BreakAndContinuePractice\BreakAndContinuePractice\obj\Debug\net5.0\ref\BreakAndContinuePractice.dll
