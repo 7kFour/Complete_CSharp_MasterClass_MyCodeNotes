@@ -1,2 +1,3 @@
-# Complete_CSharp_MasterClass_MyCodeNotes
-Complete C# Masterclass from Udemy 
+# Complete C# Masterclass
+
+My code examples, challenges and notes from lessons for future reference and review. 
