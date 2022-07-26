@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\bin\Debug\net5.0\lists.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\refint\lists.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\lists.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\lists\lists\obj\Debug\net5.0\ref\lists.dll

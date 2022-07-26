@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#\\csharp-masterclass\\lists\\lists\\lists.csproj": {}
+    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\lists\\lists\\lists.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#\\csharp-masterclass\\lists\\lists\\lists.csproj": {
+    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\lists\\lists\\lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#\\csharp-masterclass\\lists\\lists\\lists.csproj",
+        "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\lists\\lists\\lists.csproj",
         "projectName": "lists",
-        "projectPath": "D:\\dev\\c#\\csharp-masterclass\\lists\\lists\\lists.csproj",
+        "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\lists\\lists\\lists.csproj",
         "packagesPath": "C:\\Users\\bland\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#\\csharp-masterclass\\lists\\lists\\obj\\",
+        "outputPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\lists\\lists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
