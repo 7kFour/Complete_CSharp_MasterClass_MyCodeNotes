@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\refint\Hashtables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables\Hashtables\obj\Debug\net5.0\ref\Hashtables.dll

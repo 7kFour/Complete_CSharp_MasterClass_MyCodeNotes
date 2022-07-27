@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\bin\Debug\net5.0\Hashtables - Challenge.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\refint\Hashtables - Challenge.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\Hashtables - Challenge.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Hashtables - Challenge\Hashtables - Challenge\obj\Debug\net5.0\ref\Hashtables - Challenge.dll
