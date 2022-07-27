@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\refint\Dictionaries.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Dictionaries\Dictionaries\obj\Debug\net5.0\ref\Dictionaries.dll
