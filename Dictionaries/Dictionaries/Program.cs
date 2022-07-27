@@ -15,6 +15,13 @@ namespace Dictionaries {
     internal class Program {
         static void Main(string[] args) {
 
+            // as a side note - 
+            // it wouldn't be a good practice to use something like the Role/Job title
+            // as a key in most cases because there could be more than one person with
+            // the same title/role 
+            // in a situation like that you would probably want to use something like
+            // employee id number 
+            
             // creating an array of type Employee to use as a 'database'
             Employee[] employees = {
                 new Employee("CEO", "Gwyn", 95, 200),
@@ -53,6 +60,34 @@ namespace Dictionaries {
                 employeesDirectory.Add(emp.Role, emp);
             }
 
+
+            // updating values in a dictionary 
+            // the new value you assign still has to be of the same type 
+            // that the Dictionary was assigned with <string, Employee> for this example
+            // ex - we want to update the value stored at a specific key
+            string keyToUpdate = "HR";
+            if (employeesDirectory.ContainsKey(keyToUpdate)) {
+
+                // replacing the Employee stored at "HR" with a new Employee
+                // for instance Laura quit and Eleka was hired 
+                employeesDirectory[keyToUpdate] = new Employee("HR", "Eleka", 26, 18);
+                Console.WriteLine($"Employee with Role/Key {keyToUpdate} was updated!");
+            } else {
+                Console.WriteLine($"No employee found with the key {keyToUpdate}.");
+            }
+
+            // remove values from a dictionary 
+            // Remove() returns a bool - true if it removed something - false if not
+            // this saves a step in writing the logic for it since you don't need
+            // to check .ContainsKey() first 
+            string keyToRemove = "Intern";
+            if (employeesDirectory.Remove(keyToRemove)) {
+                // now there is no intern in the dictionary
+                Console.WriteLine($"Employ with Role {keyToRemove} was removed!");
+            } else {
+                Console.WriteLine($"No employee found with the key {keyToRemove}.");
+            }
+
             // if you try and access a key that doesn't exist 
             // a KeyNotFoundException will be raised 
             // can wrap everything in conditional logic to check first
@@ -87,6 +122,7 @@ namespace Dictionaries {
                 Console.WriteLine("The key does not exist!");
             }
             
+
             // retrieving an element of our dictionary with ElementAt() method
             // ElementAt() uses System.Linq namespace 
             // ElementAt() works because each key also has an internally assigned
@@ -105,6 +141,7 @@ namespace Dictionaries {
                 Console.WriteLine($"Employee Name: {employeeValue.Name}\nEmployee Role: {employeeValue.Role}" +
                     $"\nEmployee Age: {employeeValue.Age}\nEmployee Salary: {employeeValue.Salary}");
             }
+
 
 
         }
