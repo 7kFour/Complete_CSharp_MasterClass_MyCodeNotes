@@ -21,6 +21,8 @@ namespace Dictionaries {
             // the same title/role 
             // in a situation like that you would probably want to use something like
             // employee id number 
+            // the example of Role was to show that you a lot of flexibility in types
+            // of keys - so it doesn't just have to be an int for instance 
             
             // creating an array of type Employee to use as a 'database'
             Employee[] employees = {
