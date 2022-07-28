@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\bin\Debug\net5.0\Queues.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\refint\Queues.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\Queues.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Queues\Queues\obj\Debug\net5.0\ref\Queues.dll
