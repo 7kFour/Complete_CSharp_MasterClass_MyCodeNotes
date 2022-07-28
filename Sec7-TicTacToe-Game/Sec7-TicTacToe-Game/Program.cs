@@ -24,33 +24,48 @@ namespace Sec7_TicTacToe_Game {
                 Console.Write("\nPlayer 1 - Choose field: ");
                 playerChoice = Console.ReadLine();
 
-                // make a setter function or setter property for the value
-                if (!playerChoice.ToLower().Equals("q") && ValidateChoice(playerChoice)) {
+                // for player 1
+                // validate entered string - make it lowercase for easier checks
+                if (!playerChoice.ToLower().Equals("q") && ValidateChoice(playerChoice.ToLower())) {
                     // change array value to X (pl1) or O (pl2) 
                     // if their input is valid 
-                    Console.WriteLine(playerChoice);
-                    // call setter here
+
+                    // make sure that spot is open on board - in switch in class
+                    // set board value with class member method
+                    board.SetValue(playerChoice, 1);
                 } else {
-                    Console.WriteLine("reeee");
+                    // exit game loop if player choice is q
+                    Console.WriteLine("Exiting game, thanks!");
                     break;
                 }
+
+                // update board so that user input appears
+                Console.Clear();
+                board.DisplayBoard();
 
                 Console.Write("\nPlayer 2 - Choose field: ");
                 playerChoice = Console.ReadLine();
 
-                if (!playerChoice.ToLower().Equals("q") && ValidateChoice(playerChoice)) {
+                // for player 2
+                // validate entered string - make it lowercase for easier checks
+                if (!playerChoice.ToLower().Equals("q") && ValidateChoice(playerChoice.ToLower())) {
                     // change array value to X (pl1) or O (pl2) 
                     // if their input is valid 
                     Console.WriteLine(playerChoice);
-                    // call setter here
+
+                    // make sure that spot is open on board - in switch in class
+                    // set board value with class member 
+                    board.SetValue(playerChoice, 2);
                 } else {
-                    Console.WriteLine("reeee");
+                    // exit game loop if player choice is q
+                    Console.WriteLine("Exiting game, thanks!");
                     break;
                 }
 
                 Console.Clear();
 
-                // check score 
+                // check win condition
+
 
                 // when a player wins ask if they want to play again 
                 // or quit 
@@ -62,50 +77,47 @@ namespace Sec7_TicTacToe_Game {
                 exitCondition = false; 
                 }
             }
-
-            board.SetValue("truck");
-            board.GetBoard();
-
-            Console.Read();
         }
 
         // check that player choice is a string between 1-9
         static bool ValidateChoice (string choice) {
+            // if string is empty - return false            
             if (String.IsNullOrEmpty(choice)) {
                 return false;
             }
 
+            // check that entered string is 1-9 or q
             switch (choice) {
                 case "1":
                     return true;
-                    break;
+                    
                 case "2":
                     return true;
-                    break;
+                    
                 case "3":
                     return true;
-                    break;
+                    
                 case "4":
                     return true;
-                    break;
+                    
                 case "5":
                     return true;
-                    break;
+                    
                 case "6":
                     return true;
-                    break;
+                    
                 case "7":
                     return true;
-                    break;
+                    
                 case "8":
                     return true;
-                    break;
+                    
                 case "9":
                     return true;
-                    break;
+                    
                 case "q":
                     return true;
-                    break;
+                    
                 default:
                     return false;
 
@@ -114,7 +126,7 @@ namespace Sec7_TicTacToe_Game {
             
         }
 
-        // instructions
+        // instructions - printed to console
         static void IntroMessage() {
             Console.WriteLine("Welcome Players!\n");
             Console.WriteLine("Player 1 will be X and Player 2 will be O");

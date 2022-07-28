@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game.csproj": {}
+    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DebuggingPractice\\DebuggingPractice\\DebuggingPractice.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game.csproj": {
+    "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DebuggingPractice\\DebuggingPractice\\DebuggingPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game.csproj",
-        "projectName": "Sec7-TicTacToe-Game",
-        "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game.csproj",
+        "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DebuggingPractice\\DebuggingPractice\\DebuggingPractice.csproj",
+        "projectName": "DebuggingPractice",
+        "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DebuggingPractice\\DebuggingPractice\\DebuggingPractice.csproj",
         "packagesPath": "C:\\Users\\bland\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Sec7-TicTacToe-Game\\Sec7-TicTacToe-Game\\obj\\",
+        "outputPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DebuggingPractice\\DebuggingPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
