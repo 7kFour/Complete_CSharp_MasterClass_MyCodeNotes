@@ -1,0 +1,20 @@
+﻿INHERITANCE CHALLENGE 
+
+Expand on the code from Inheritance_Introduction_Pt2 by adding a deriving Class "VideoPost"
+with properties VideoURL and Length. 
+
+Create the required constructors to create a VideoPost 
+Adjust the ToString() method accordingly 
+Create an instance of VideoPost and use the ToSTring method on it 
+
+ADVANCED CHALLENGE 
+
+Hint: Use Timer and Callback 
+Add fields and methods as required to "VideoPost" Class
+
+Add member method "Play" which should write the current duration of the video
+Add a "Stop" method which should stop the "timer" and write "Stopped at {theTimerValue}" onto the console
+"play" the video when the object is instantiated and stop it when the user presses any key 
+
+Keep it simple with the key press.
+Video playback is really just starting and stopping a timer. 

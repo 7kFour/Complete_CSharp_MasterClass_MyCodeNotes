@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Virtual_Override_Demo/1.0.0": {
+        "runtime": {
+          "Virtual_Override_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Virtual_Override_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

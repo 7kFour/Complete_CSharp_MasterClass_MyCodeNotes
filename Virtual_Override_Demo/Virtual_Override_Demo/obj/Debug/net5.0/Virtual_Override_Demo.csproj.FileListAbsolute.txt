@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\bin\Debug\net5.0\Virtual_Override_Demo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\refint\Virtual_Override_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\Virtual_Override_Demo.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Virtual_Override_Demo\Virtual_Override_Demo\obj\Debug\net5.0\ref\Virtual_Override_Demo.dll
