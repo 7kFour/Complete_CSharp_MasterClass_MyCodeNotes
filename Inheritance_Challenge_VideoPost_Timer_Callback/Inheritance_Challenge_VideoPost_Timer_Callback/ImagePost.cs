@@ -21,7 +21,7 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
         public ImagePost(string title, string sentBy, string url, bool  isPublic) {
 
             // the following properties and methods are inherited from Post
-            this.ID = GetNextID;
+            this.ID = GetNextID();
             this.Title = title;
             this.SentByUsername = sentBy;
             this.IsPublic = isPublic;
