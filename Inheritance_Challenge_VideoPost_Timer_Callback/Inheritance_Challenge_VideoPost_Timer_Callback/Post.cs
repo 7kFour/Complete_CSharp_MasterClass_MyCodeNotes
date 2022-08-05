@@ -8,7 +8,7 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
     internal class Post {
 
         // will provide a unique ID for posts
-        private static int currentPostId;
+        private static int currentPostId = 0;
 
         // properties
         protected int ID { get; set; }

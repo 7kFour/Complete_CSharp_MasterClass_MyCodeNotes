@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Timers;
+using System.Threading;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +10,17 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
     // VideoPost class derives from Post
     internal class VideoPost : Post {
 
+        // member fields 
+        protected bool isPlaying = false;
+        protected int currDuration = 0;
+        // make sure you are using the timer from System.Threading 
+        // VS will automatically make it the timer from System.Timer if you don't change it
+        Timer timer;
+
         // unique class properties
-        public string VideoURL { get; set; }
-        public Timer VideoLength { get; set; }
+        // protected can only be used by base class and derivative classes
+        protected string VideoURL { get; set; }
+        protected int VideoLength { get; set; }
 
         // constructors 
 
@@ -20,7 +28,7 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
         // default constructor if no parameters are passed on object instantiation
         public VideoPost() { }
 
-        public VideoPost(string title, string sentBy, string url, Timer length, bool isPublic) {
+        public VideoPost(string title, string sentBy, string url, int length, bool isPublic) {
 
             // the following properties and methods are inherited from Post
             this.ID = GetNextID();
@@ -28,6 +36,7 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
             this.SentByUsername = sentBy;
             this.IsPublic = isPublic;
 
+            // These properties are members of VideoPost only 
             this.VideoURL = url;
             this.VideoLength = length;
         }
@@ -37,23 +46,51 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
             return String.Format($"{this.ID} - {this.Title} - {this.VideoURL} - by {this.SentByUsername}");
         }
 
-        // creates a timer to mimic a video playback time
-        public void GetVideoLength() {
-            // creating a timer and setting interval to 1000ms 
-            Timer vidLen = new Timer(1000);
-            // each 1000ms this will execute the OnTimedEvent method
-            vidLen.Elapsed += new ElapsedEventHandler(OnTimedEvent);
+        //initialize timer whenever Play() is called "play button pressed"
+        public void Play() {
 
-            // starting timer when method gets called
-            vidLen.Enabled = true; 
+            // only need to initialize the timer if the video is "playing"
+            // notice the negation
+            if (!isPlaying) {
+                // setting isPlaying to true so that Stop() functionality will work
+                isPlaying = true;
+                Console.WriteLine("Video playback started...");
+
+                // TimerCallback executes the code you put in it in each time the duration lapses 
+                //Timer(FunctionToDo, Object state, when it should start, how often to be repeated(duration))
+                // null means object state doesn't matter, 0 means start immediately, 1000 repeats every 1000ms - 1 second
+                timer = new Timer(TimerCallback, null, 0, 1000);
+            }
         }
 
-        private void OnTimedEvent(object sender, ElapsedEventArgs e) {
-            
+        // will be called every 1000ms as set above
+        // using private instead of protected because only this class needs to utilize the timer
+        private void TimerCallback(Object o) {
+            if (currDuration < VideoLength) {
+                currDuration++;
+                Console.WriteLine($"Video at {currDuration}s");
+
+                // forcing garbage collector to clean up any messes from the timer
+                GC.Collect();
+            } else {
+                Stop();
+            }
         }
 
-        // create method to stop timer and dispose of it
-        // must dispose of timers when you are done with them with timerName.Dispose()
+        public void Stop() {
+           
+            // only need to stop if video is playing
+            if (isPlaying) {
+
+                // setting isPlaying back to false so that Play() method if statement will work again
+                isPlaying = false;
+                Console.WriteLine($"Stopped at {currDuration}s");
+                currDuration = 0;
+
+                // stops Timer and resets it - otherwise it can cause a memory leak
+                timer.Dispose();
+            }
+        }
 
     }
 }

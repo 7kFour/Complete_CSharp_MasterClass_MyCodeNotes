@@ -10,7 +10,7 @@ namespace Inheritance_Challenge_VideoPost_Timer_Callback {
     internal class ImagePost : Post {
 
         // unique class property
-        public string ImageURL { get; set; }
+        protected string ImageURL { get; set; }
 
         // constructors
 
