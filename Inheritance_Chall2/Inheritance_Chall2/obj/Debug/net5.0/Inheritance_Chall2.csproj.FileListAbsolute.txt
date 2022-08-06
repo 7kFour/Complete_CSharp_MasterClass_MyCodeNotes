@@ -1,0 +1,16 @@
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.exe
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.deps.json
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.runtimeconfig.json
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.runtimeconfig.dev.json
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.dll
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\bin\Debug\net5.0\Inheritance_Chall2.pdb
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.csproj.AssemblyReference.cache
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.AssemblyInfoInputs.cache
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.AssemblyInfo.cs
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.csproj.CoreCompileInputs.cache
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.dll
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\refint\Inheritance_Chall2.dll
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.pdb
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\Inheritance_Chall2.genruntimeconfig.cache
+D:\dev\c#\Leet_Code\Inheritance_Chall2\Inheritance_Chall2\obj\Debug\net5.0\ref\Inheritance_Chall2.dll

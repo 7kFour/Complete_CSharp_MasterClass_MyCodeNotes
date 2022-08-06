@@ -1,0 +1,16 @@
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.exe
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.dll
+D:\dev\c#\Leet_Code\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.dll
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\refint\Enums.dll
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
+D:\dev\c#\Leet_Code\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll

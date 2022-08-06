@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Inheritance_Chall2/1.0.0": {
+        "runtime": {
+          "Inheritance_Chall2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_Chall2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
