@@ -4,9 +4,37 @@ namespace Inheritance_Demo2 {
 
     // lots of notes in each file make sure to read them all 
 
+    // Interfaces are also known as ABC or Abstract Classes 
+
+    // Interfaces provide a lot of benefits -
+
+    // code readability - defines the capabilities of your class, what your class 
+    // is capable of doing
+    // if you implement ISortable - you are clearly stating that objects of your class
+    // can be sorted
+
+    // code semantics - active separation of concepts 
+    // interfaces define behavioral models, a definition of what an object can do
+    // separation of concepts keep code semantics more clear
+
+    // code maintainability - interfaces help reduce coupling
+    // allow easy interchange of implementation for the same concept
+    // without underlying code being affected
+
+    // design patterns - bigger picture of using contracts, abstration
+    // and using interfaces - pivotal to OOP
+    // helps humans understand the code better
+
+    // multiple inheritance - interfaces can be the gateway to using multi-inheritance
+    // in C#
+
     // interfaces are especially useful when classes don't have a 
     // relationship with each other - ie they don't share a base class
     // so inheritance the usual way is not an option
+
+    // interfaces are used for communication between two similar or non-similar classes
+    // which do not care about the type of class implementing the interface
+    // like Car communicating with Chair to call the Destroy() method
 
     // in this example - imagine we are working on a game where the player can
     // destroy things and each object destroyed has a different behavior
