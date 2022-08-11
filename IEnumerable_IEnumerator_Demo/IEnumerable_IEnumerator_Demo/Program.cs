@@ -34,6 +34,17 @@ namespace IEnumerable_IEnumerator_Demo {
     /// exposing a Current property that points at the object we are currently at in the collection.
     /// </summary>
 
+    /// When is it recommended to use the IEnumerable interface?
+    /// Should be used when your collection represents a massive database table or other
+    /// similarly large collection - you dont want to copy something like that into memory because it will
+    /// cause performance issues - ie you wouldn't want to build and store a bunch of large lists in 
+    /// your main method and have them initialized immediately - instead of you can do like below
+    /// and create them as objects to use when you need - but then you have to implement the IEnumerator
+    /// interface 
+    
+    /// When is it not recommended to use the IEnumerable interface? 
+    /// when you need results immediately and are possibly mutating or editing the objects later on
+    /// in this case, it is better to use an Array or List
 
 
     internal class Program {
