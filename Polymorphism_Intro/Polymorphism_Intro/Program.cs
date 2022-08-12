@@ -5,7 +5,16 @@ using System.Runtime.InteropServices;
 namespace Polymorphism_Intro {
     internal class Program { 
 
-        // Covers polymorphism, new, sealed, virtual, override
+        // Covers polymorphism, new, sealed (doesn't allow override),
+        // virtual (does allow override), override
+        // in method signature - sealed goes before override keyword - do nothing
+        // to virtual keyword - you can only seal virtual methods 
+
+        // an example of using sealed - seal basically doesn't allow inheritance
+        // public virtual void MyVirtualMethod();
+        // public sealed override void MyVirtualMethod();
+        // you can also seal an entire class 
+        // sealed class MyClass {} then it can't be inherited from at all
 
         // Note on Virtual/Override and New 
         // Virtual/Override - override the base class but show a 'linkage' between 
@@ -53,8 +62,8 @@ namespace Polymorphism_Intro {
             // var is of type car here foreach (Car car in cars)
             // this is going to call the Repair() method in respective class of each 
             // list item ....
-            // Audi was repaired!
-            // BMW was repaired!
+            // The Audi R8 Green Hell was repaired!
+            // The BMW X5 Le Mans was repaired!
             // however if Repair() in Audi and BMW was not overriding the virtual
             // Repair() in Car - so no virtual/override keywords
             // Repair() in Car would be called and just write Car was repaired!
@@ -84,6 +93,12 @@ namespace Polymorphism_Intro {
 
             Car carB = (Car)bmwM5;
             carB.ShowDetails(); // The car is white and has 330 horsepower
+
+            M3 myM3 = new M3(260, "red", "M3");
+            // calling the Repair() of BMW it's parent because we override and use base.Repair() in M3
+            myM3.Repair(); // The BMW M3 was repaired!
+            myM3.ShowDetails(); // The BMW M3 is red and has 260 horsepower
+
         }
 
         // creating classes in Program.cs for ease of reading notes 
@@ -129,8 +144,8 @@ namespace Polymorphism_Intro {
                 Console.WriteLine($"The {brand} {Model} is {Color} and has {HP} horsepower");
             }
 
-            public override void Repair() {
-                Console.WriteLine($"{brand} was repaired!");
+            public sealed override void Repair() {
+                Console.WriteLine($"The {brand} {Model} was repaired!");
             }
         }
 
@@ -153,16 +168,24 @@ namespace Polymorphism_Intro {
             }
 
             public override void Repair() {
-                Console.WriteLine($"{brand} was repaired!");
+                Console.WriteLine($"The {brand} {Model} was repaired!");
             }
         }
 
         class M3 : BMW{
 
             // constructor
-            public M3(int hp, string color, string model) : base(hp, color, model) {
-                
-            }
+            public M3(int hp, string color, string model) : base(hp, color, model) { }
+
+            // this is overriding the Repair() method of Car to use the Repair() of BMW because
+            // it inherits from BMW
+            // this will throw an error because you can't override a sealed member 
+            // output of the myM3 object remains the same - it will just use Repair() from 
+            // BMW its parent class but you can't override (make any changes) to that method 
+            // from a child 
+            //public override void Repair() {
+            //    base.Repair();
+            //}
         }
     }
 }
