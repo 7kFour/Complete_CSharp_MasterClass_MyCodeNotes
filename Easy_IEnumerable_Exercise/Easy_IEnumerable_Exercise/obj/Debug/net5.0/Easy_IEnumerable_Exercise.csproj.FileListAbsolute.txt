@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\bin\Debug\net5.0\Easy_IEnumerable_Exercise.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\refint\Easy_IEnumerable_Exercise.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\Easy_IEnumerable_Exercise.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Easy_IEnumerable_Exercise\Easy_IEnumerable_Exercise\obj\Debug\net5.0\ref\Easy_IEnumerable_Exercise.dll
