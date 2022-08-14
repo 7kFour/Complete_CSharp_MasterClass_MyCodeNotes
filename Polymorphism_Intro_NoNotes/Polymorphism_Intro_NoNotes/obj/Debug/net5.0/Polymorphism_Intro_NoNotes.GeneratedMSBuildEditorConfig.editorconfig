@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Polymorphism_Intro_NoNotes
+build_property.ProjectDir = d:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Polymorphism_Intro_NoNotes\Polymorphism_Intro_NoNotes\
