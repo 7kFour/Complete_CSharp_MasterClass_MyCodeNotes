@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractClass_as_and_is_keywords/1.0.0": {
+        "runtime": {
+          "AbstractClass_as_and_is_keywords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClass_as_and_is_keywords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
