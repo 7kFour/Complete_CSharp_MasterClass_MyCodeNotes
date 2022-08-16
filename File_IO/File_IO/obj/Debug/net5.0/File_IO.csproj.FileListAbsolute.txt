@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\bin\Debug\net5.0\File_IO.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\refint\File_IO.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\File_IO.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\File_IO\File_IO\obj\Debug\net5.0\ref\File_IO.dll
