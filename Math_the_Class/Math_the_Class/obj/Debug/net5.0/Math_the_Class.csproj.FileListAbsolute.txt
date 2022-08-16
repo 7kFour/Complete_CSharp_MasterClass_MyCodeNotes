@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\bin\Debug\net5.0\Math_the_Class.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\refint\Math_the_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\Math_the_Class.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Math_the_Class\Math_the_Class\obj\Debug\net5.0\ref\Math_the_Class.dll
