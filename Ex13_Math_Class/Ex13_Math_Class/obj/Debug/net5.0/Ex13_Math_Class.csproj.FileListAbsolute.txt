@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\bin\Debug\net5.0\Ex13_Math_Class.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\refint\Ex13_Math_Class.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\Ex13_Math_Class.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex13_Math_Class\Ex13_Math_Class\obj\Debug\net5.0\ref\Ex13_Math_Class.dll
