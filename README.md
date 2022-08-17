@@ -13,4 +13,5 @@ My code examples, challenges and notes from lessons for future reference and rev
     - Logical Tree and Visual Tree
     - See comments in MainWindow.xaml and MainWindow.xaml.cs
 - WPF App 04
+    - Notes on Routed, Direct, Bubbling, and Tunneling events in MainWindow.xaml.cs
 
