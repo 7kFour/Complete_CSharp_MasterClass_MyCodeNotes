@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPF_App_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_App_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--XAML == Extensible Application Markup Language-->
+    <!-- XMLNS == XML Namespace -->
+    <!-- Comments have to go under all the XMLNS and Title stuff or you'll get an error -->
+    <Grid>
+        <!--One way of creating a button (or most elements probably) --> 
+        <!--<Button Content="Click Me" Height="50" Width="100" FontSize="16"></Button>-->
+        
+        <!--another way of creating a button-->
+        <!--wrap panel wraps all of its elements together from left to right-->
+        w
+    </Grid>
+</Window>
