@@ -15,4 +15,6 @@ My code examples, challenges and notes from lessons for future reference and rev
 - WPF App 04
     - Notes on Routed, Direct, Bubbling, and Tunneling events in MainWindow.xaml.cs
     - More explanation and article links in MainWindow.xaml.cs
+- WPF App 05
+    - Covers <Grid> in more detail
 
