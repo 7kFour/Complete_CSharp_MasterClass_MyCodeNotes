@@ -2,6 +2,13 @@
 
 My code examples, challenges and notes from lessons for future reference and review. 
 
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
 <ol> 
   <li>WPF App 01</li>
     <ol>
