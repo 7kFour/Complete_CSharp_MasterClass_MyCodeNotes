@@ -9,12 +9,24 @@
     <!--XAML == Extensible Application Markup Language-->
     <!-- XMLNS == XML Namespace -->
     <!-- Comments have to go under all the XMLNS and Title stuff or you'll get an error -->
-    <Grid>
-        <!--One way of creating a button (or most elements probably) --> 
+    <!-- In order for code behind to work the entire grid here needs to be commented out -->
+    <!--<Grid>
+        --><!--One way of creating a button (or most elements probably) --> 
         <!--<Button Content="Click Me" Height="50" Width="100" FontSize="16"></Button>-->
         
         <!--another way of creating a button-->
-        <!--wrap panel wraps all of its elements together from left to right-->
-        w
-    </Grid>
+        <!--wrap panel wraps all of its elements together from left to right--><!--
+        <Button>
+            <Button.Width>250</Button.Width>
+            <Button.Height>100</Button.Height>
+            <Button.FontSize>24</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Blue">Multi</TextBlock>
+                    <TextBlock Foreground="Red">Color</TextBlock>
+                    <TextBlock Foreground="White">Button</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+    </Grid>-->
 </Window>
