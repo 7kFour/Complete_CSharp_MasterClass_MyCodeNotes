@@ -17,4 +17,6 @@ My code examples, challenges and notes from lessons for future reference and rev
     - More explanation and article links in MainWindow.xaml.cs
 - WPF App 05
     - Covers <Grid> in more detail
+- WPF App 06
+    - Dependency properties
 
