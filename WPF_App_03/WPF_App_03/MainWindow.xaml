@@ -6,7 +6,32 @@
         xmlns:local="clr-namespace:WPF_App_03"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <!-- Logical Tree -> Window -> Stack Panel -> Text Block - List Box -> List Box Item -->
+    <!-- Visual Tree -> Add break point on method in mainwindow.xaml.cs file - run program in debug - look in autos
+            click on view drop and then wpf tree visualizer -->
+    
+    <!-- Using a Stack Panel instead of a Grid - it allows us to stack elements on top of each other -->
+    <StackPanel>
+        <!-- create a textblock like a <p> alignment is obvious - margin works similar to CSS 
+                if you don't specify - like below - it creates a margin on all 4 sides 
+                so this is just margin 20px on all 4 sides 
+        -->
+        <TextBlock HorizontalAlignment="Center" Margin="20">Hello World!</TextBlock>
+
+        <!-- By default list box will only be the height of it's items - so 3 items of 30px height will
+                make a 90px heigh list box 
+            you can change this behavior by adding a height attribute to list box tag (not sure if theyre called this in XAML)
+                (just using the html terminology) 
+        -->
+        <ListBox Height="100" Width="100">
+            <!-- Showing 2 ways to add an end tag to some elements -->
+            <ListBoxItem Content="Item 1"></ListBoxItem>
+            <ListBoxItem Content="Item 2"/>
+            <ListBoxItem Content="Item 3"/>
+        </ListBox>
+
+        <!-- Margin= Left, Top, Right, Bottom -->
+        <Button Content="Click Me!" Click="Button_Click" Margin="0,20,0,0"></Button>
         
-    </Grid>
+    </StackPanel>
 </Window>

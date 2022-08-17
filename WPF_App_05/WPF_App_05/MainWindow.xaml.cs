@@ -13,21 +13,13 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_App_03 {
+namespace WPF_App_05 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
-        }
-
-        // this method will be called whenever we click the button its attached to
-        // and whatever is inside its body will be executed
-        private void Button_Click(object sender, RoutedEventArgs e) {
-
-            // a popup window when the button is clicked
-            MessageBox.Show("Thanks for clicking me!");
         }
     }
 }
