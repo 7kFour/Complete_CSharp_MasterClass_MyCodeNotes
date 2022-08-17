@@ -1,4 +1,5 @@
 # Complete C# Masterclass
+Most examples have extensive comments explaining code and theory in the .cs files throughout the projects. 
 
 My code examples, challenges and notes from lessons for future reference and review. 
 
