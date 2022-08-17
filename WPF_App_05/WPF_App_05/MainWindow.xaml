@@ -6,7 +6,67 @@
         xmlns:local="clr-namespace:WPF_App_05"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    
+    <!--check out putting this entire grid inside a stack panel to get some other ideas--> 
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <!--all of the below notes for widths also apply to height properties-->
+            
+            <!--auto will create an element that is only size needed to fit the content of the element - dynamic size-->
+            <!--<ColumnDefinition Width="Auto"/>-->
+            
+            <!--this will create a 100px width column - fixed value - -->
+            <!--<ColumnDefinition Width="100"/>-->
+            
+            <!--each column will now take up half the screen - this is like flexbox kinda--> 
+            <!--these are both weight at 1 so 50% of the window size each-->
+            <!--<ColumnDefinition Width="*"/>-->
+            <!--<ColumnDefinition Width="*"/>-->
+
+            <!--you can change the weighting - making the second button twice as wide as the first-->
+            <!-- col 1 is 1/3rd and column 2 is 2/3 of the screen-->
+            <!--<ColumnDefinition Width="*"/>-->
+            <!--<ColumnDefinition Width="2*"/>-->
+
+            <!--col 1 is 3/5 of the screen and column 2 is 2/5 of the screen-->
+            <!--you can set this - the * is basically a unit - so this is 5 units of * with 3 given to Col 1 and 2 given to Col 2-->
+            <!--you could make this 99* and 1* and Col 1 would be 99/100 * and Col 2 would be 1/100*-->
+            <!--<ColumnDefinition Width="3*"/>-->
+            <!--<ColumnDefinition Width="2*"/>-->
+
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--start counting at 0 - first row/column is 0-->
+        <Button Grid.Column="0" Grid.Row="0">1</Button>
+        <Button Grid.Column="1" Grid.Row="0">2</Button>
+        <Button Grid.Column="2" Grid.Row="0">3</Button>
+
+        <Button Grid.Column="0" Grid.Row="1">4</Button>
+        <Button Grid.Column="1" Grid.Row="1">5</Button>
+        <Button Grid.Column="2" Grid.Row="1">6</Button>
+
+
+        <Button Grid.Column="0" Grid.Row="2">7</Button>
+        <Button Grid.Column="1" Grid.Row="2">8</Button>
+        <!--showing a way to write elements with a lot of attributes cleanly-->
+        <TextBlock 
+            Grid.Column="2" 
+            Grid.Row="2"
+            TextAlignment="Center"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            TextWrapping="Wrap"
+            FontSize="12"
+        >
+            I'm a text block in position 9 of the grid!
+            The way this is written is a nice way to cleanup elements with lots of attributes!
+        </TextBlock>
     </Grid>
 </Window>
