@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\bin\Debug\net5.0\Delegates_Demo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\refint\Delegates_Demo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\Delegates_Demo.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Delegates_Demo\Delegates_Demo\obj\Debug\net5.0\ref\Delegates_Demo.dll

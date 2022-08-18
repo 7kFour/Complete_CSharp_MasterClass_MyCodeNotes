@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\bin\Debug\net5.0\Lambda_Expressions.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\refint\Lambda_Expressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\Lambda_Expressions.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Lambda_Expressions\Lambda_Expressions\obj\Debug\net5.0\ref\Lambda_Expressions.dll

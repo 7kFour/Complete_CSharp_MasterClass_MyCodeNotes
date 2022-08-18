@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\bin\Debug\net5.0\Anonymous_Methods.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\refint\Anonymous_Methods.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\Anonymous_Methods.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Anonymous_Methods\Anonymous_Methods\obj\Debug\net5.0\ref\Anonymous_Methods.dll
