@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\bin\Debug\net5.0\Ex14_Delegates.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\refint\Ex14_Delegates.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\Ex14_Delegates.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Ex14_Delegates\Ex14_Delegates\obj\Debug\net5.0\ref\Ex14_Delegates.dll
