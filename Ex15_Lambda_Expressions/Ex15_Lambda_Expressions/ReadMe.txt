@@ -12,9 +12,9 @@ One more time in detail:
 
     You can store function as follow:
 
-    static Func<int, int> Name = (a) => a;
+    Func<int, int> Name = (a) => a;
 
-    Create a static dictionary called Operators that uses a string as a Key and lambda function as a value.
+    Create a dictionary called Operators that uses a string as a Key and lambda function as a value.
 
     Example: {"sign", Function}
 
