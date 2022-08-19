@@ -1,0 +1,45 @@
+﻿1234567890
+
+
+what if you want to find a phone number like 202-555-0102
+\d\d\d-\d\d\d-\d\d\d\d or you can do \d{3}-\d{3}-\{d4}
+the dashes are looking for actual so if it was 202.555.0102 you would do \d{3}.\d{3}.\{d4}
+
+you could also (and probably should because its more precise) use a literal group search
+\d{3}[.#-]\d{3}[.#-]\{d4} now it will look for 3 numbers a . # or - then 3 numbers . # or - then 4 numbers
+	
+202-555-0102
+202-555-0196
+202.555.0196
+202#555#0196
+
+
+0175/12345678
++49165/12312347
+0049165/12312347
+
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+LaLa La La LaLa
+
+Mr. Panjuta
+Mr Muller
+Mr Robertson
+Mr. G
+Ms Smith
+Ms Jackson
+
+// Challenge - find website links
+https://www.tutorials.eu
+https://tutorials.eu
+http://www.tutorials.eu
+http://tutorials.eu
+
+test@test.com
+
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+so you would search for them like \[ or \? for instance 
