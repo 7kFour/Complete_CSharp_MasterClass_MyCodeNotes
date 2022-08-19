@@ -28,3 +28,6 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lamb
 
 https://www.geeksforgeeks.org/lambda-expressions-in-c-sharp/
 
+https://www.tutorialsteacher.com/csharp/csharp-func-delegate
+https://docs.microsoft.com/en-us/dotnet/api/system.func-2?view=net-6.0
+
