@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\bin\Debug\net5.0\RegEx_RegularExpressions.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\refint\RegEx_RegularExpressions.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\RegEx_RegularExpressions.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\RegEx_RegularExpressions\RegEx_RegularExpressions\obj\Debug\net5.0\ref\RegEx_RegularExpressions.dll

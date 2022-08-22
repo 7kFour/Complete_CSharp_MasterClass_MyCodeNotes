@@ -1,4 +1,6 @@
-﻿These are some of the things you will use the most
+﻿Remember that sometimes it makes the most sense to search Google for RegeX - a lot of very good ones have already been made
+
+These are some of the things you will use the most
 
 you will notice that often the capital letter is the opposite of the lowercase see \s \S below for instance
 there are examples in the sample.txt as well

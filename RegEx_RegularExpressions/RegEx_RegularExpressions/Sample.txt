@@ -13,6 +13,12 @@ you could also (and probably should because its more precise) use a literal grou
 202.555.0196
 202#555#0196
 
+Mr|Mrs search for Mr or Mrs
+
+\+49|0049 <= basically says either the number has with +49 OR 0049
+
+(\+49)|0049|0?1(6|7)\d/\d{8}
+it's either +49 or 0049 or a single 0 followed by 1 follow by a 6 or 7 followed by a number then 8 numbers
 
 0175/12345678
 +49165/12312347
@@ -23,12 +29,21 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 LaLa La La LaLa
 
+need to escape . like \. because . is a wildcard
+Mr.?\s\w+
+
 Mr. Panjuta
 Mr Muller
 Mr Robertson
 Mr. G
 Ms Smith
 Ms Jackson
+
+look at snippets for * and ? do 
+looking for https:// with www or 
+(https|http)://(www.)?tutorials.eu -- this will find any of the links blow
+
+his version - https?://(www.)?(\w+)(\.\w+) or my above ^
 
 // Challenge - find website links
 https://www.tutorials.eu

@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\bin\Debug\net5.0\Nullables.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\refint\Nullables.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\Nullables.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Nullables\Nullables\obj\Debug\net5.0\ref\Nullables.dll
