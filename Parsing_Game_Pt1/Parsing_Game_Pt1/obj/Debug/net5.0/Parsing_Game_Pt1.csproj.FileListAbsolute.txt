@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\bin\Debug\net5.0\Parsing_Game_Pt1.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\refint\Parsing_Game_Pt1.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\Parsing_Game_Pt1.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Parsing_Game_Pt1\Parsing_Game_Pt1\obj\Debug\net5.0\ref\Parsing_Game_Pt1.dll
