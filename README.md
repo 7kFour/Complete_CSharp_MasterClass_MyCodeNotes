@@ -19,4 +19,6 @@ My code examples, challenges and notes from lessons for future reference and rev
     - Covers <Grid> in more detail
 - WPF App 06
     - Dependency properties
-
+    - Creating your own dependency
+- WPF App 07
+    - Data Binding
