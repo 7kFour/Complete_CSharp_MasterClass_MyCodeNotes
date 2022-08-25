@@ -13,19 +13,19 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_App_07 {
+namespace WPF_App_08 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
+
+        public Sum SumObj { get; set; }
+
         public MainWindow() {
             InitializeComponent();
 
-            // creating a cojnstructor to utilize one time binding
-            // the sliders value will start at 30 and the text in the textbox will be the value of the slider 
-            // You can still change the slider but it won't change the value in the box and vice versa 
-            MySlider.Value = 30;
-            MyTextBox.Text = MySlider.Value.ToString();
+            SumObj = new Sum { Num1 = "1", Num2 = "3" };
+            this.DataContext = SumObj;
         }
     }
 }

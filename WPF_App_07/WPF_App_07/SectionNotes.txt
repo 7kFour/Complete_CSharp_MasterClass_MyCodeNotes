@@ -1,0 +1,56 @@
+﻿You can bind many things other than values such as the background to change colors etc
+
+4 Modes of Data Binding
+
+Binding Target: <- OneWay			Binding Source
+Binding Target: <- TwoWay ->		Binding Source
+Binding Target: OneWayToSource ->	Binding Source
+Binding Target:	<_ _ _ OneTime		Binding Source -- Done in constructor so only once during initialization 
+
+<StackPanel>
+    <!-- connecting the textbox and slider with one way binding -->
+    <!-- element you want to bind must have a name property -->
+    <!-- Path is what we are using from the bound element - in this case the value of the slider -->
+    <!-- Mode is the mode from the SectionNotes -->
+    <!-- IsSnapToTickEnable gets rid of the huge floating point value that the slider produced -->
+    <!-- Since this is OneWay the slider will change the textbox value but typing in the textbox will not change the slider -->
+    <TextBox Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=OneWay}"></TextBox>
+    <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+</StackPanel>
+
+<!--See SectionNotes.txt for brief explanation of the code-->
+<!-- Change Mode= in Textbox (can be in any element you create) to the modes described in SectionNotes to experiment -->
+<StackPanel>
+    <!--TextBox is target-->
+    <!-- Now typing in the text box will change the slider -->
+    <TextBox Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay}"></TextBox>
+    <!-- Slider is binding source -->
+    <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+</StackPanel>
+
+<StackPanel>
+    <!--TextBox is target-->
+    <!-- Now the only way to change the slider is by typing a value in the text box -->
+    <TextBox Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=OneWayToSource}"></TextBox>
+    <!-- Slider is binding source -->
+    <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+</StackPanel>
+
+<StackPanel>
+    <!--TextBox is target-->
+    <!--This mode has to be done during initialization - see SectionNotes and MainWindow.xaml.cs-->
+    <!--Giving TextBox a name to be able to access it in code behind -->
+    <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=OneTime}"></TextBox>
+    <!-- Slider is binding source -->
+    <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+</StackPanel>
+
+Before adding UpdateSourceTrigger= you needed to press Tab in order to get the value you typed in the text box to reflect on the slider 
+now they will both change fluidly -- It will even change as you type 
+This is also an example of being able to add more than one property 
+<StackPanel>
+    <!--TextBox is target-->
+    <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+    <!-- Slider is binding source -->
+    <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+</StackPanel>

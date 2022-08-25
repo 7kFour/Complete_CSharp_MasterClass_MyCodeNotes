@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WPF_App_07"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <!--See SectionNotes.txt for brief explanation of the code-->
+    <!-- Change Mode= in Textbox (can be in any element you create) to the modes described in SectionNotes to experiment -->
+    <StackPanel>
+        <!--TextBox is target-->
+        <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <!-- Slider is binding source -->
+        <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100"/>
+    </StackPanel>
 </Window>

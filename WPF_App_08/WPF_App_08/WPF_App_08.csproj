@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2C15ABAB-2DA2-4A46-8085-68781EA2350E}</ProjectGuid>
+    <ProjectGuid>{799F8620-457A-4AA7-96D1-94817E27747D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WPF_App_07</RootNamespace>
-    <AssemblyName>WPF_App_07</AssemblyName>
+    <RootNamespace>WPF_App_08</RootNamespace>
+    <AssemblyName>WPF_App_08</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Sum.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

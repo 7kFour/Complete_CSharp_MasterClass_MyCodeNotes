@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2C15ABAB-2DA2-4A46-8085-68781EA2350E}</ProjectGuid>
+    <ProjectGuid>{8F335747-B2BC-4701-9822-39DCB20114D7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WPF_App_07</RootNamespace>
-    <AssemblyName>WPF_App_07</AssemblyName>
+    <RootNamespace>WPF_App_09</RootNamespace>
+    <AssemblyName>WPF_App_09</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -93,9 +93,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="SectionNotes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+﻿INotifyPropertyChangedInterface
+https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.inotifypropertychanged?view=net-6.0
+
+A different way to utilize property changed from App 07 
+
+Good way to have events triggered - like graphics changes etc
