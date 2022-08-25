@@ -6,7 +6,27 @@
         xmlns:local="clr-namespace:WPF_App_06"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Dependency Properties are important for data binding and trigger events - the element being aware of whats going on-->
+    <!--Dependency properties are part of the Control class (you can find it making a Button in the code behind then following
+    the class inheritance all the way back 
+    you will notice that Dependency properties are always static readonly and their names always end in Property eg BackgroundProperty-->
+    <!--Style triggers will fire when an event occurs-->
+    <!--All controls should be shared and available - value should not be changed after initialization-->
     <Grid>
-        
+        <Button Height="100" Width="200" Content="Click Me" Background="Gray">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <!-- when mouse is over button (ie mouseover is true) font size of text on button will change to 30 -->
+                        <!-- if value was False it would fire when mouse was no longer over the area -->
+                        <!--IsMouseOver provides a chain notification to WPF with the help of dependency properties to allow us
+                        to set the value to true-->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="FontSize" Value="30"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
     </Grid>
 </Window>

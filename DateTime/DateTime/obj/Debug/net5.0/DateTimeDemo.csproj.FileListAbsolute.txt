@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\bin\Debug\net5.0\DateTimeDemo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\refint\DateTimeDemo.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\DateTimeDemo.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\DateTime\DateTime\obj\Debug\net5.0\ref\DateTimeDemo.dll

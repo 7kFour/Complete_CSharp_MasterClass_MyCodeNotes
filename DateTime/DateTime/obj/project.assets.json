@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DateTime\\DateTime\\DateTime.csproj",
-      "projectName": "DateTime",
-      "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DateTime\\DateTime\\DateTime.csproj",
+      "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DateTime\\DateTime\\DateTimeDemo.csproj",
+      "projectName": "DateTimeDemo",
+      "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DateTime\\DateTime\\DateTimeDemo.csproj",
       "packagesPath": "C:\\Users\\bland\\.nuget\\packages\\",
       "outputPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\DateTime\\DateTime\\obj\\",
       "projectStyle": "PackageReference",
