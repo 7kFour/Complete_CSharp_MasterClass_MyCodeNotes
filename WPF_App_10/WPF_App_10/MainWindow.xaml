@@ -6,7 +6,17 @@
         xmlns:local="clr-namespace:WPF_App_10"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <ComboBox Name="comboBoxColors">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <!--name property is in code behind-->
+                        <Rectangle Fill="{Binding Name}" Width="32" Height="32" Margin="5"></Rectangle>
+                        <TextBlock Text="{Binding Name}" FontSize="32"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    </StackPanel>
 </Window>

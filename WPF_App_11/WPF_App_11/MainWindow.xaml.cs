@@ -13,19 +13,13 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_App_10 {
+namespace WPF_App_11 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
-
-            // getting all of the colors back from the System.Colors namespace 
-            // you could create your own list, info from a db etc to populate this 
-            // or you could use an internal list like below 
-            // this combo box will drop down to reveal all of the colors in the Colors namespace of C#
-            comboBoxColors.ItemsSource = typeof(Colors).GetProperties();
         }
     }
 }
