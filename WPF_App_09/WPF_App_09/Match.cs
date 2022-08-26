@@ -15,6 +15,11 @@ namespace WPF_App_09 {
         public int Score2 { get; set; }
         public string Team1 { get; set; }
         public string Team2 { get; set; }
+
+        // could add an array of the players for each team so that when someone presses
+        // the select button it would display the names of the starting players for the team 
+        // it would go here
+
         // how many minutes of the match have elapsed
         public int Completion { get; set; }
 

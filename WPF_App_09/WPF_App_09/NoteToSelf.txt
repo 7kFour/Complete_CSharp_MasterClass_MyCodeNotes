@@ -1,0 +1,17 @@
+﻿Change the layout of this to be more like a scores app...
+
+Logo TeamName1 Score
+						===== progress bar 
+Logo TeamName2 Score      
+
+space 
+
+Logo TeamName1 Score
+						===== progress bar 
+Logo TeamName2 Score  
+
+etc 
+
+Find an API to pull scores from 
+Have a link to a match highlights video? 
+
