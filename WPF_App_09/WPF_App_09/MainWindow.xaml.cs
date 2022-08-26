@@ -20,6 +20,17 @@ namespace WPF_App_09 {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
+
+            // create list to contain Match objects 
+            List<Match> matches = new List<Match>();
+
+            // create/add match objects to list
+            matches.Add(new Match() { Team1 = "Bayern Munich", Team2 = "Real Madrid", Score1 = 3, Score2 = 2, Completion = 85 });
+
+            // lbMatches is the <ListBox> we created and named ln14 in the .xaml - it displays our matches
+            // It needs a datasource - we set that with ItemSource and are setting it to our List<T> of matches 
+            // the matches in the list are the datasource
+            lbMatches.ItemsSource = matches;
         }
     }
 }

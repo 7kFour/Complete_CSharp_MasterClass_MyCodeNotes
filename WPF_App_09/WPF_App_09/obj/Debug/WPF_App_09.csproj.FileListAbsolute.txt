@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\bin\Debug\WPF_App_09.exe.config
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\bin\Debug\WPF_App_09.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\bin\Debug\WPF_App_09.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.csproj.SuggestedBindingRedirects.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\MainWindow.g.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\App.g.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09_MarkupCompile.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09_MarkupCompile.lref
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\MainWindow.baml
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.g.resources
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.Properties.Resources.resources
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.csproj.GenerateResource.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\WPF_App_09\WPF_App_09\obj\Debug\WPF_App_09.pdb
