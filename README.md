@@ -22,3 +22,27 @@ My code examples, challenges and notes from lessons for future reference and rev
     - Creating your own dependency
 - WPF App 07
     - Data Binding
+- WPF App 08
+    - INotifyPropertyChanged Interface
+    - Very beginning of a calculator as an example
+- WPF App 09
+    - List Box 
+    - Footie Score App
+- WPF App 10
+    - Combo Box 
+- WPF App 11
+    - Check Box
+    - Pizza toppings app
+- WPF App 12
+    - Add a tool tip to a control
+- WPF App 13
+    - Radio Buttons
+    - Images
+- WPF App 14
+    - Property Data / Changing Property Data
+    - Event Triggers
+    - Enhance UI
+- WPF App 15
+    - Password Box
+    - More about Text Box
+  
