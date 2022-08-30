@@ -6,7 +6,24 @@
         xmlns:local="clr-namespace:WPF_App_14"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
+        <Grid>
+            <TextBlock Text="Hello, World!" FontSize="32" HorizontalAlignment="Center">
+                <TextBlock.Style>
+                    <!--must have a style in order to set style triggers-->
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="Green"></Setter>
+                        <Style.Triggers>
+                            <!--all the setters of this trigger will be executed when the textblock is moused over-->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="Red"/>
+                                <Setter Property="TextDecorations" Value="Underline"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
         
-    </Grid>
+    </StackPanel>
 </Window>
