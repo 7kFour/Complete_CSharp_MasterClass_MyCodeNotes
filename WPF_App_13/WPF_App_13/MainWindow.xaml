@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF_App_13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_App_13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <!--an advantage to radio buttons - only one can be active within a group-->
+        <!--all of the radio buttons are in the same group - the <StackPanel></StackPanel>-->
+        <Label FontWeight="Bold" FontSize="20">Do you like cats?</Label>
+        <RadioButton Margin="5" Checked="yesChecked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="Yes" Foreground="Green" Margin="5,0,0,0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <!--adding an event to No-->
+        <!--can change the name of the event if you want but change it in the code behind also-->
+        <RadioButton Margin="5" Checked="RadioButton_Checked">
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="No" Foreground="Red" Margin="5,0,0,0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <!--this will start the program with maybe checked-->
+        <!--if you had an event here on check like above it would trigger as soon as the program started-->
+        <RadioButton Name="rbMaybe" IsChecked="True" Margin="5">
+            <WrapPanel>
+                <!-- source can be on your pc/server or from a url -->
+                <!--for a local image just put in the file path to the image-->
+                <!--easier to size the images before you use them but I'm lazy so I didn't-->
+                <Image Source="https://bit.ly/3CKaT31" Height="32" Width="32"></Image>
+                <TextBlock Text="Maybe" Foreground="Black" Margin="5,0,0,0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+    </StackPanel>
+</Window>
