@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:WPF_App_14"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Examples of Event driven, Data driven, and Property driven triggers--> 
     <StackPanel>
         <Grid>
             <TextBlock Text="Hello, World!" FontSize="32" HorizontalAlignment="Center">
@@ -15,7 +16,10 @@
                         <Setter Property="Foreground" Value="Green"></Setter>
                         <Style.Triggers>
                             <!--all the setters of this trigger will be executed when the textblock is moused over-->
+                            <!--with mouse over - when the mouse is moved away everything will go back to original values-->
                             <Trigger Property="IsMouseOver" Value="True">
+                                <!--can have multiple setters on a trigger 
+                                will set text color to red and underline text when moused over-->
                                 <Setter Property="Foreground" Value="Red"/>
                                 <Setter Property="TextDecorations" Value="Underline"/>
                             </Trigger>
@@ -24,6 +28,55 @@
                 </TextBlock.Style>
             </TextBlock>
         </Grid>
-        
+        <Grid>
+            <TextBlock Text="Hey, bruh..." FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <!--run an animation over the period of 500ms-->
+                                            <!-- the animation is slowly increasing the font size to 72 over 500ms -->
+                                            <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="FontSize" To="72"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <!--run an animation over the period of 300ms-->
+                                            <!-- the animation is slowly decreasing the font size back to 24 over 300ms -->
+                                            <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="24"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <CheckBox Name="cbHello" Content="Is someone there?"/>
+            <TextBlock HorizontalAlignment="Center" FontSize="36">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <!--data driven trigger instead of event driven trigger like above-->
+                        <Setter Property="Text" Value="No"/>
+                        <Setter Property="Foreground" Value="Red"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=cbHello, Path=IsChecked}" Value="True">
+                                <Setter Property="Text" Value="Of Course"/>
+                                <Setter Property="Foreground" Value="Green"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </StackPanel>
     </StackPanel>
 </Window>

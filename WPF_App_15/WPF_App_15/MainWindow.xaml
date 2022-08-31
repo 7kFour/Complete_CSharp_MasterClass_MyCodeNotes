@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPF_App_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_App_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Label>Username:</Label>
+        <TextBox Name="tbUserName"></TextBox>
+        <Label>Password:</Label>
+        <!--default is to put dots like a bullet point - you can change it to whatever you want-->
+        <!--this will put display an h instead of any character the user types in the password box-->
+        <!--this box will only take 8 characters-->
+        <PasswordBox MaxLength="8" PasswordChar="h"></PasswordBox>
+        <Button Margin="5" Content="Login" Click="Button_Click"/>
+    </StackPanel>
+</Window>
