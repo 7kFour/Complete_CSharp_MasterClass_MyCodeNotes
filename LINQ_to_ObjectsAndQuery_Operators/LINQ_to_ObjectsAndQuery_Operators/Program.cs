@@ -56,6 +56,9 @@ namespace LINQ_to_ObjectsAndQuery_Operators {
             Console.WriteLine("\n");
 
 
+            um.StudentAndUniNameCollection();
+            Console.WriteLine();
+
             um.MaleStudents();
             Console.WriteLine();
 

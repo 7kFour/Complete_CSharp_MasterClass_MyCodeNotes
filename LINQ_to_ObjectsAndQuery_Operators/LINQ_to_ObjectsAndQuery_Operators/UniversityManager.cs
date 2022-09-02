@@ -113,5 +113,22 @@ namespace LINQ_to_ObjectsAndQuery_Operators {
                 ss.ShowInfo();
             }
         }
+
+        // this is showing another way to do a join 
+        public void StudentAndUniNameCollection() {
+
+            // basically creating a new list that only has the information of the student name and uni name 
+            // think of this sorta as creating a new table with a join in SQL
+            var newCollection = from s in students 
+                                join uni in universities on s.UniversityId equals uni.Id
+                                orderby s.Name
+                                select new { StudentName = s.Name, UniName = uni.Name };
+
+            Console.WriteLine("New collection: ");
+            foreach (var c in newCollection) {
+                Console.Write("    ");
+                Console.WriteLine($"Student {c.StudentName} from Uni {c.UniName}");
+            }
+        }
     }
 }
