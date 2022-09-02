@@ -1,7 +1,8 @@
 # Complete C# Masterclass
-Most examples have extensive comments explaining code and theory in the .cs files throughout the projects. 
 
 My code examples, challenges and notes from lessons for future reference and review. 
+
+Most examples have extensive comments explaining code and theory in the .cs files throughout the projects. 
 
 - WPF App 01
     - Basic intro to app creation. Used <TextBlock> in <Grid>
