@@ -45,4 +45,8 @@ My code examples, challenges and notes from lessons for future reference and rev
 - WPF App 15
     - Password Box
     - More about Text Box
-  
+- LINQ_to_ObjectsAndQuery_Operators
+    - University Manager Project 
+    - Covers LINQ using only objects 
+    - Covers some LINQ operators, has a link to LINQ operator documentation 
+
