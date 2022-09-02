@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\bin\Debug\net5.0\LinqWithXML.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\refint\LinqWithXML.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\LinqWithXML.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\LinqWithXML\LinqWithXML\obj\Debug\net5.0\ref\LinqWithXML.dll

@@ -19,21 +19,25 @@ namespace LinqWithXML {
                                         <Name>Chuck</Name>
                                         <Age>23</Age>
                                         <University>Yale</University>
+                                        <Year>Senior</Year>
                                     </Student>
                                     <Student>
                                         <Name>Cao Cao</Name>
                                         <Age>19</Age>
                                         <University>Stanford</University>
+                                        <Year>Freshman</Year>
                                     </Student>
                                     <Student>
                                         <Name>Fitz</Name>
                                         <Age>31</Age>
                                         <University>Yale</University>
+                                        <Year>Junior</Year>
                                     </Student>
                                     <Student>
                                         <Name>Amelia</Name>
                                         <Age>20</Age>
                                         <University>Yale</University>
+                                        <Year>Sophmore</Year>
                                     </Student>
                                 </Students>";
 
@@ -47,10 +51,27 @@ namespace LinqWithXML {
                            select new {
                                Name = s.Element("Name").Value,
                                Age = s.Element("Age").Value,
-                               Uni = s.Element("University")
+                               Uni = s.Element("University").Value,
+                               Year = s.Element("Year").Value
                            };
 
+            Console.WriteLine("List of students:");
+            foreach (var s in students) {
+                Console.WriteLine($"    Student: {s.Name}\n        Age: {s.Age}\n        Uni: {s.Uni}\n        Year: {s.Year}\n");
+            }
 
+            // sorting students by age - youngest to oldest
+            var studentAgeSort = from s in students 
+                                 orderby s.Age 
+                                 select s;
+
+            Console.WriteLine("\nStudents sorted by age:");
+            foreach (var a in studentAgeSort) {
+                Console.WriteLine($"    Student: {a.Name}\n        Age: {a.Age}\n        Uni: {a.Uni}\n        Year: {a.Year}\n");
+            }
+
+
+            Console.ReadLine();
         }
     }
 }
