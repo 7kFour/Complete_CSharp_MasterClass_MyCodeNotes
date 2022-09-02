@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LINQ_to_ObjectsAndQuery_Operators/1.0.0": {
+        "runtime": {
+          "LINQ_to_ObjectsAndQuery_Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_to_ObjectsAndQuery_Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
