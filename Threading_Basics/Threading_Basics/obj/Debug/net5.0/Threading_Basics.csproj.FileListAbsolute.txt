@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\bin\Debug\net5.0\Threading_Basics.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\refint\Threading_Basics.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\Threading_Basics.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Basics\Threading_Basics\obj\Debug\net5.0\ref\Threading_Basics.dll
