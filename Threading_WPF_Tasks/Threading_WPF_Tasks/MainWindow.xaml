@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Name="MyButton" Click="PreferredButtonClickUrlWithTask" Content="Button" FontSize="32" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="45" Width="125"/>
+        <WebBrowser Name="MyWebBrowser" Margin="10,60,10,10"/>
     </Grid>
 </Window>

@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\bin\Debug\Threading_WPF_Tasks.exe.config
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\bin\Debug\Threading_WPF_Tasks.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\bin\Debug\Threading_WPF_Tasks.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.csproj.SuggestedBindingRedirects.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\MainWindow.g.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\App.g.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks_MarkupCompile.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks_MarkupCompile.lref
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\MainWindow.baml
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.g.resources
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.Properties.Resources.resources
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.csproj.GenerateResource.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_WPF_Tasks\Threading_WPF_Tasks\obj\Debug\Threading_WPF_Tasks.pdb
