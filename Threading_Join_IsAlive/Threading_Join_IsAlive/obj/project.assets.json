@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\teaching_beeb_projects\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
+      "projectUniqueName": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
       "projectName": "Threading_Join_IsAlive",
-      "projectPath": "D:\\dev\\c#\\teaching_beeb_projects\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
+      "projectPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
       "packagesPath": "C:\\Users\\bland\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\c#\\teaching_beeb_projects\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\obj\\",
+      "outputPath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

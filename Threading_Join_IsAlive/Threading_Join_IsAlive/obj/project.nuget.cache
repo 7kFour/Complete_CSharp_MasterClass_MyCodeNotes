@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ftziMCf4w4tA1Qiz/GwbZ/s4CEgOrMXZ1m0FobtHynbLf9/0JPVNLshj/LoK/Ma0XzT+Ajm3zwgj2wljTqGtg==",
+  "dgSpecHash": "dzYUVxYwAyzVmc4kSzVXptAahSxBtLs9KccKLx25SGLYeN2AMTqEtyqoBIpZgWZGOxGy7w0CIvBPD/l04DwmNw==",
   "success": true,
-  "projectFilePath": "D:\\dev\\c#\\teaching_beeb_projects\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
+  "projectFilePath": "D:\\dev\\c#\\Complete_CSharp_MasterClass_MyCodeNotes\\Threading_Join_IsAlive\\Threading_Join_IsAlive\\Threading_Join_IsAlive.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

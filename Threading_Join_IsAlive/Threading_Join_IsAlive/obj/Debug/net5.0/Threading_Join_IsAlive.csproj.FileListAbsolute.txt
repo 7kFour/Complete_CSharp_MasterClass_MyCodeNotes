@@ -1,0 +1,16 @@
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.exe
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.deps.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.runtimeconfig.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.runtimeconfig.dev.json
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\bin\Debug\net5.0\Threading_Join_IsAlive.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.csproj.AssemblyReference.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.AssemblyInfoInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.AssemblyInfo.cs
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.csproj.CoreCompileInputs.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\refint\Threading_Join_IsAlive.dll
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.pdb
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\Threading_Join_IsAlive.genruntimeconfig.cache
+D:\dev\c#\Complete_CSharp_MasterClass_MyCodeNotes\Threading_Join_IsAlive\Threading_Join_IsAlive\obj\Debug\net5.0\ref\Threading_Join_IsAlive.dll
